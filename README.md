@@ -2,11 +2,11 @@
 	<img src="assets/TeamLogo.png" alt="Editor" width="100">
 </div>
 
-# Connect-the-Dorms-中国农业大学2024毕业实训
+# Connect-the-Dorms-`云旅百宿`：高校学生还寝小程序
 
 ## 项目文件
 
-### 2-26 
+### :kissing_heart: 2-26 
 
 [GithubDestop入门](doc/GithubDestop入门/GithubIntroductionForMembers.docx)
 
