@@ -2,7 +2,7 @@
 	<img src="assets/TeamLogo.png" alt="Editor" width="100">
 </div>
 
-# <center> `Connect-the-Dorms-云旅百宿: `高校学生换寝小程序</center>
+#  `Connect-the-Dorms-云旅百宿: `高校学生换寝小程序
 
 ## 项目文件
 
