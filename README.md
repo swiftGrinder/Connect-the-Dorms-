@@ -1,8 +1,13 @@
 # Connect-the-Dorms-中国农业大学2024毕业实训
 
+![TeamLogo](vx_images/90552316258693.png =160x)
+
+## 工作进度
+
 ### 2-26 
 
 [GithubDestop入门](doc/GithubDestop入门/GithubIntroductionForMembers.docx)
+
 [团队创建文档](doc/团队创建文档/readme.md)
 
 
