@@ -12,7 +12,7 @@
 	<img src="../../assets/TeamLogo.png" alt="Editor" width="100">
 </div>
 
-**Logo寓意说明：**一张床上有一个交换箭头，代表交换寝室。
+**Logo寓意说明：** 一张床上有一个交换箭头，代表交换寝室。
 
 ## 二、团队结构：
 
