@@ -1,6 +1,6 @@
 # Connect-the-Dorms-中国农业大学2024毕业实训
 
-![TeamLogo](vx_images/90552316258693.png =160x)
+![TeamLogo](assets/TeamLogo.png =160x)
 
 ## 工作进度
 
