@@ -1,8 +1,8 @@
-# Connect-the-Dorms-中国农业大学2024毕业实训
-
 <div align="center">
 	<img src="assets/TeamLogo.png" alt="Editor" width="150">
 </div>
+
+# Connect-the-Dorms-中国农业大学2024毕业实训
 
 ## 工作进度
 
