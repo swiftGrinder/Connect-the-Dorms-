@@ -47,7 +47,7 @@
 1. 考勤制度
 早上9点签到，下午6点签退。
 2. 源代码和文档管理
-代码库URL：swiftGrinder/Connect-the-Dorms-: 中国农业大学2024毕业实训 (github.com)
+代码库URL：[github.com/swiftGrinder/Connect-the-Dorms-](https://github.com/swiftGrinder/Connect-the-Dorms-)
 
 **代码版本管理方法：**
 几个分支：主分支，开发分支，功能分支
