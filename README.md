@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/TeamLogo.png" alt="Editor" width="150">
+	<img src="assets/TeamLogo.png" alt="Editor" width="100">
 </div>
 
 # Connect-the-Dorms-中国农业大学2024毕业实训
