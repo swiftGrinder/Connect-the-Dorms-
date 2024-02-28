@@ -1,0 +1,39 @@
+<!-- 登录页面 -->
+
+<view class="login_box">
+  <!-- 小程序介绍 -->
+  <view class="introduce_box">
+    <view class="title">黑色代码</view>
+    <view class="detail">欢迎微信搜索黑色代码体验!!!口令 3344</view>
+  </view>
+
+  <!-- 用户输入账号密码登录 -->
+  <view class="user_box">
+    <form bindsubmit="submit">
+      <view class="item">
+        <view class="title">账号/手机号</view>
+        <input type="text" name="phone" placeholder="请输入你的账号" />
+      </view>
+
+      <view class="item">
+        <view class="title">密码</view>
+        <input type="password" name="passWord" placeholder="请输入你的密码" />
+      </view>
+
+      <button form-type="submit" style="margin-top: 80rpx;" type="primary">登录</button>
+    </form>
+  </view>
+
+  <!-- 用户前往注册页面 -->
+  <view class="sign">
+    <view class="title">没有账号?</view>
+    <view bindtap="go_sign" class="go_sign">注册</view>
+  </view>
+
+  <!-- 版本信息 -->
+  <view class="versign_box">
+    <view class="title">copyright 2023 黑子哥</view>
+    <view class="v">All rights reseved v1.0.0</view>
+  </view>
+  <!--  -->
+</view>
